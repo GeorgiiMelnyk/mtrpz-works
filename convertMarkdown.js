@@ -38,7 +38,7 @@ const convertMarkdown = (markdown, htmlFormat) => {
 
   if (htmlFormat) markdown = htmlTags.paragraph[0] + joinPreformatted(splitted, tags) + htmlTags.paragraph[1]
   else markdown = joinPreformatted(splitted, tags)
-  return markdown + '\n'
+  return markdown
 }
 
 const splitPreformatted = (markdown) => markdown.split(preformatted)
