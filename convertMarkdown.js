@@ -18,7 +18,7 @@ const htmlTags = {
 }
 
 
-const convertMarkdown = (markdown) => {
+const convertMarkdown = (markdown, format) => {
     const tags = htmlTags
     const splitted = splitPreformatted(markdown)
     if (splitted.length % 2 !== 1) throw new Error('Expected formatted ending.')
