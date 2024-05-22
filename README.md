@@ -16,4 +16,4 @@ Follow this simple instructions:
     + all flags are optional. you only need `node app.js [input file]`
 
 ## Links
-- revert commit: in progress
+- [revert commit](https://github.com/GeorgiiMelnyk/mtrpz-works/commit/be9e609aa73c35c752b7d88bd569ab392d28d664)
