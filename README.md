@@ -28,4 +28,15 @@ Follow this simple instructions:
 - [pul request](https://github.com/GeorgiiMelnyk/mtrpz-works/pull/1)
 
 ### Conclusions(about unit tests)
-After completing this project, I realized that unit tests are quite useful. However, I think they are not very necessary for simple projects like this one. They are more applicable in cases of team development (at least two people). Alternatively, if there is only one developer but the project is large and complex, then tests will also help to avoid confusion and prevent breaking the existing functional parts of the project when new features are developed. Additionally, unit tests are very convenient to use as documentation.
+
+After completing this project, I realized that unit tests are quite useful. 
+
+However, I think they are not very necessary for simple projects like this one.
+
+They are more applicable in cases of team development (at least two people). 
+
+Alternatively, if there is only one developer but the project is large and complex, then tests will also help to
+
+avoid confusion and prevent breaking the existing functional parts of the project when new features are developed. 
+
+Additionally, unit tests are very convenient to use as documentation.
